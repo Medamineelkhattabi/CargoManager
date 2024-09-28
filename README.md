@@ -1,6 +1,6 @@
-# CargoManagerPlus
+# CargoManager
 
-**CargoManagerPlus** is a C++ project designed to manage the transport of goods via various modes of transportation (road and air). It allows users to add, modify, and remove shipments (cargaisons) and their associated goods (marchandises), and calculate the cost of transportation based on weight, distance, and transport type.
+**CargoManager** is a C++ project designed to manage the transport of goods via various modes of transportation (road and air). It allows users to add, modify, and remove shipments (cargaisons) and their associated goods (marchandises), and calculate the cost of transportation based on weight, distance, and transport type.
 
 ## Features
 
