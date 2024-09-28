@@ -14,7 +14,7 @@
 ## Project Structure
 
 ```bash
-├── CargoManagerPlus/
+├── CargoManager/
 │   ├── src/
 │   │   ├── main.cpp              # Main program logic
 │   │   ├── Marchandise.cpp       # Implementation of Marchandise class
