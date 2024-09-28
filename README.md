@@ -28,6 +28,4 @@
 │   │   ├── ClientTransport.h     # Declaration of ClientTransport class
 │   │   ├── AdminTransport.h      # Declaration of AdminTransport class
 │   │   └── Historique.h          # Declaration of history tracking
-│   ├── .gitignore                # Git ignore file
-│   ├── Makefile                  # Makefile to build the project
-│   └── LICENSE                   # License file (MIT, GPL, Apache, etc.)
+
